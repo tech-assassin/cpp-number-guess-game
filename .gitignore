@@ -1,0 +1,15 @@
+
+# Ignore executable files
+*.executable
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore log files
+*.log
+# Ignore compliled object files (optional)
+*.o
+
+# Mac & Windows system files (optional)
+.DS_Store
+Thumbs.db
