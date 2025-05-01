@@ -1,5 +1,5 @@
 
-# C++ Numver Guessing Game 🎯
+# C++ Number Guessing Game 🎯
 
 A simple command-line game where the user tries to guess a random number
 
